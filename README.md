@@ -1,1 +1,1 @@
-# DEEP-THOUGHT_FIGMA
+Here, i have designed a static website using figma software, which is the demo task of DEEP-THOUGHT organisation , a lot more to learn from this amazing technique as i am new in this, at last the wonderful experience from this and have enjoyed alot, 
